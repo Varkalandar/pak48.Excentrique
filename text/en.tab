@@ -1,0 +1,266 @@
+# Simutrans pak48.Excentrique texts
+#
+# --- Hajo: Testing overrides ---
+# --- Hajo: Testing overrides ---
+Fahrtziel
+To: 
+return ticket
+Way back
+promote to line
+Create line
+month wait time
+Max. waiting time:
+Climate Control
+Climate Settings
+Water level
+Water level:
+Mountain height
+Mountain height:
+Map roughness
+Map roughness:
+Summer snowline
+Summer snowline:
+Winter snowline
+Winter snowline:
+desert
+Desert climate
+tropic
+Tropical climate
+mediterran
+Mediterran climate
+temperate
+Temperate climate
+tundra
+Tundra
+rocky
+Alpine climate
+no tree
+No trees on map
+isometric map
+Isometric map
+underground mode
+Underground view
+Neue Welt
+Create a New Map
+1WORLD_CHOOSE
+New Game Settings
+3WORLD_CHOOSE
+Memory: %dMB
+5WORLD_CHOOSE
+Number of cities:
+Median Citizen per town
+Average city size:
+Intercity road len:
+Intercity road length:
+6WORLD_CHOOSE
+Traffic density:
+Land industries
+Industry chains:
+Percent Electricity
+Percent electricity:
+Tourist attractions
+Tourist attractions:
+Use timeline start year
+Use chronology starting at
+8WORLD_CHOOSE
+Darken map at night
+hide city building
+Hide city buildings
+hide all building
+Hide all buildings
+transparent station coverage
+Transparent station coverage
+show station names
+Show station names
+show waiting bars
+Show waiting bars
+hide transparent
+Make hidden trees transparent
+COLOR_CHOOSE\n
+Choose a primary\nand secondary\nvehicle color from\nthe right hand lists.
+minimum length of rivers
+Min. length of rivers
+maximum length of rivers
+Max. length of rivers
+Load game
+Load Game
+join game
+Play Online
+Einstellungsfenster
+Game Options
+RAILTOOLS
+Magnatrack Tools
+ROADTOOLS
+Powertrail Tools
+Fast forward
+Fast Forward
+SLOPETOOLS
+Landscaping Tools
+Rotate map
+Rotate Map
+industrial building
+Spark charger.
+residential house
+Spark capacitor.
+shops and stores
+Spark cleaner.
+fl_title
+Factory List
+curlist_title
+Attraction List
+tl_title
+City List
+player -1
+Human
+player 0
+Public Service
+Screenshot\ngespeichert.\n
+Screenshot saved.\n
+Einstellungen
+Options
+Speichern
+Save Game
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+11_IND
+A glowing, towerlike structure.
+12_IND
+A towerlike structure with an impressive halo of energy.
+13_IND
+A towerlike structure, sparkling from high energy.
+#____________________________________citycar____________________________________
+#____________________________________citycar____________________________________
+#___________________________________crossing____________________________________
+#___________________________________crossing____________________________________
+#__________________________________factory_info___________________________________
+#__________________________________factory_info___________________________________
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+hjm-beatfab
+Beatfab
+hjm-fanfostar
+Fanfostar
+hjm-sounder
+City sounder
+hjm-organ
+Aureal melody maker
+vks-orchestra
+Symphonium
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+beats
+Rhythms & Beats
+fanfares
+Fanfares
+tunes
+Tunes
+melodies
+Melodies
+#_____________________________________groundobj______________________________________
+#_____________________________________groundobj______________________________________
+hjm-rock_1
+Boulder\n\nA boulder which might look good as decoration in a bigger garden. It should be easy to remove.\n
+hjm-rock_2
+Rock Formation\n\nA bigger rock formation that seems to be the top of more rock structures underground.\n
+hjm-inactive_geyser
+Inactive Geyser\n\nNothing more than a boring hole in the ground. Or is it?\n
+hjm-pond_1
+Muddy Pond\n\nIs that water or some sort of acid in there? Anyways the growths around seem to like it.\n
+#_____________________________________misc______________________________________
+#_____________________________________misc______________________________________
+#__________________________________pedestrian___________________________________
+#__________________________________pedestrian___________________________________
+hjm-spark_1
+Wandering spark.
+hjm-spark_2
+Traveling spark.
+hjm-spark_3
+Floating spark.
+hjm-spark_4
+Sparking spark.
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+hjm-force_gate
+Force Gate
+#____________________________________sights_____________________________________
+#____________________________________sights_____________________________________
+hjm-splinter_plant_dark
+Dark Crystal Splinter Plant\n\nAn ancient growths of dark crystal splinters, taller than any of the surrounding growths.
+hjm-splinter_plant_light
+Light Crystal Splinter Plant\n\nAn ancient growths of shining crystal splinters, taller than any of the surrounding growths.
+hjm-embassy
+Disused Embassy\n\nThis building formerly was used as an embasses, but has been unused and empty since a while.
+hjm-menger_sponge
+Level 2 Menger Sponge\n\nA metallic cube which has formed by chance in a carved, fractal-like structure.
+hjm-menger_sponge_l3
+Level 3 Menger Sponge\n\nA metallic cube which has formed by chance in a carved, fractal-like structure.
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+vks-sybill_starleaf
+Sybill Starleaf\n\nThe rare Sybill Starleaf flowers only twice in its lifetime. But very impressively when it does.\n
+hjm-orangecherry
+Glittercherry Tree\n\nA medium tall sort of tree, with a wide crown. Crystal candy cherries glitter between the leaves. Your dentist has warned you!\n
+Tree1
+Cottoncandy Tree\n\nSoft and sweet, this cottoncandy tree appears to be very yummy!\n
+Tree2
+Cottoncandy Tree\n\nSoft and sweet, this cottoncandy tree appears to be very yummy!\n
+Tree3
+Cottoncandy Tree\n\nSoft and sweet, this cottoncandy tree appears to be very yummy!\n
+hjm-bluespike
+Bluespike\n\nThe bluespike is a crystal growth, that seems to be here, what plants are in other places.\n
+hjm-spire
+Black Spire\n\nA black spire of seemingly very hard material protudes from the surface here.\n
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+hjm-dolphincar
+T-Lam Dolphin Car
+hjm-sharkwaggon
+T-Lam Shark Waggon
+hjm-beatnut
+Renaht Beat Nut
+hjm-fanfaporter
+Renaht Fanfaporter
+hjm-powerdrop_1
+Renaht Power Drops
+hjm-dropwaggon_1
+Renaht Drops Waggon
+hjm-darter
+Renaht Darter
+hjm-triple_darter
+Renaht Triple Darter
+hjm-eggson
+Renaht Eggson
+hjm-meloporter
+Renaht Melody Car
+vks-troubador
+VKS Troubador
+hjm-powernut
+Renaht Powernut
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+hjm-powertrack
+Power Trail\n\nMade from blue-red metal, the power trail can lift vehicles up in the air and move them forward. Traffic doesn't flow left and right here, but in two height levels.
+hjm-powertrack_speedlane
+Powertrail Speedlane
+hjm-enerrail
+Magnatrack\n\nThe magnatrack guides hover vehicles safely even around tight corners.
+hjm-enerrail_2
+Dynobone\n\nThe dynobone allows even faster hovering than the simple magnatrack.
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+hjm-enerrail_station
+Magnatrack Resting Point
+#____________________________________depots_____________________________________
+#____________________________________depots_____________________________________
+hjm-car-depot
+Depot Coil 
+hjm-enerrail-depot
+Magnadrop Depot
+diesel
+carbosyn

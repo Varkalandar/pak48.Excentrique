@@ -1,0 +1,216 @@
+# Simutrans pak48.Excentrique texts
+#
+# --- Hajo: Testing overrides ---
+# --- Hajo: Testing overrides ---
+Neue Welt
+Neue Karte
+COLOR_CHOOSE\n
+Wählen Sie eine pri-\nmäre und sekundäre\nFahrzeugfarbe aus\nden Listen rechts.
+Land industries
+Anzahl Industriezweige:
+Percent Electricity
+Anteil Kraftwerke (%):
+Tourist attractions
+Touristenattraktionen:
+Use timeline start year
+Mit Epoche ab Jahr:
+Water level
+Meereshöhe:
+Mountain height
+Berghöhe:
+Map roughness
+Bergigkeit:
+Summer snowline
+Schnee im Sommer:
+Winter snowline
+Schnee im Winter:
+arctic
+Polarklima
+desert
+Wüstenklima
+mediterran
+Mittelmeerklima
+rocky
+Alpines Klima
+temperate
+Gemäßigtes Klima
+tropic
+Tropenklima
+tundra
+Tundra
+no tree
+Karte ohne Wälder
+Number of rivers
+Anzahl Flüsse:
+maximum length of rivers
+Max. Flusslänge:
+minimum length of rivers
+Min. Flusslänge:
+Fahrtziel
+Nach: 
+return ticket
+Retour
+month wait time
+Max. Wartezeit:
+isometric map
+Isometrische Karte
+3WORLD_CHOOSE
+Speicher: %dMB
+Einstellungsfenster
+Einstellungen Ändern
+Fast forward
+Schnellvorlauf
+industrial building
+Funkenlader.
+residential house
+Funkensammler.
+shops and stores
+Funkenreinigung.
+join game
+Online Spiel
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+11_IND
+Eine leuchtende, turmartige Struktur.
+12_IND
+Eine turmartige Struktur mit einem leuchtenden Halo reiner Energie.
+13_IND
+Eine turmartige Struktur funkelnd und blitzend vom Fluss großer Energien.
+#____________________________________citycar____________________________________
+#____________________________________citycar____________________________________
+#___________________________________crossing____________________________________
+#___________________________________crossing____________________________________
+#__________________________________factory_info___________________________________
+#__________________________________factory_info___________________________________
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+hjm-beatfab
+Rhythmusfabrik
+hjm-fanfostar
+Fanfarenstar
+hjm-sounder
+Stadtmusikus
+hjm-organ
+Himmelsorgel
+vks-orchestra
+Symphonium
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+beats
+Rhythmen
+fanfares
+Fanfaren
+tunes
+Musikstücke
+melodies
+Melodien
+#_____________________________________groundobj______________________________________
+#_____________________________________groundobj______________________________________
+hjm-rock_1
+Findling\n\nEin dekorativer Findling, der auch in einem Garten gut aussehen würde. Er sollte nicht allzu schwer zu entfernen sein.\n
+hjm-rock_2
+Fels\n\nEin Fels der die Spitze einer größeren Steinformation im Untergrund zu sein scheint.\n
+hjm-inactive_geyser
+Ruhender Geysir\n\nNichts als ein langweiliges Loch im Boden. Oder doch nicht?\n
+hjm-pond_1
+Schlammteich\n\nIst das wirklich Wasser oder doch eine fiese Säure? Was auch immer es ist, die Gewächse in der Nähe scheinen es zu mögen.\n
+#_____________________________________misc______________________________________
+#_____________________________________misc______________________________________
+#__________________________________pedestrian___________________________________
+#__________________________________pedestrian___________________________________
+hjm-spark_1
+Wandernder Funke.
+hjm-spark_2
+Reisender Funke.
+hjm-spark_3
+Spazierender Funke.
+hjm-spark_4
+Funkelnder Funke.
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+hjm-force_gate
+Torfeld
+#____________________________________sights_____________________________________
+#____________________________________sights_____________________________________
+hjm-splinter_plant_dark
+Dunkle Kristallstruktur\n\nEine uralte, gewachsene Struktur aus dunklen Kristallsplittern, deutlich größer als die Strukturen in der Umgebung.
+hjm-splinter_plant_light
+Helle Kristallstruktur\n\nEine uralte, gewachsene Struktur aus leuchtenden Kristallsplittern, deutlich größer als die Strukturen in der Umgebung.
+hjm-embassy
+Verlassene Botschaft\n\nDieses Bauwerk war einst eine Botschaft, ist aber seit einiger Zeit verwaist.
+hjm-menger_sponge
+Stufe 2 Menger Schwamm\n\nEine metallische Struktur, die aus einer laune der Natur eine fraktalartig ausgehöhlte Form angenommen hat.
+hjm-menger_sponge_l3
+Stufe 3 Menger Schwamm\n\nEine metallische Struktur, die aus einer laune der Natur eine fraktalartig ausgehöhlte Form angenommen hat.
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+vks-sybill_starleaf
+Sybill Sternblatt\n\nDas seltene Sybill Sternblatt blüht nur zwei mal in seinem Leben, dafür aber um so prächtiger.\n
+hjm-orangecherry
+Funkelkirschenbaum\n\nEin mittelhoher Baum mit einer ausladenden Krone. Kristallzuckerkirschen funkeln einladend zwischen den Blättern. Dein Zahnarzt hat dich gewarnt!\n
+Tree1
+Zuckerwattebaum\n\nWeich und süß, und so bunt. Ist dieser Zuckerwattebaum nicht lecker?\n
+Tree2
+Zuckerwattebaum\n\nWeich und süß, und so bunt. Ist dieser Zuckerwattebaum nicht lecker?\n
+Tree3
+Zuckerwattebaum\n\nWeich und süß, und so bunt. Ist dieser Zuckerwattebaum nicht lecker?\n
+hjm-bluespike
+Blauspitze\n\nDie Blauspitze ist eine kristalline Struktur, die hier die Rolle übernimmt, die üblicherwiese Pflanzen innehaben.\n
+hjm-spire
+Schwarzes Horn\n\nEin schwarzes Horn aus anscheinend sehr harten Material durchbricht hier die Oberfläche der Welt.\n
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+hjm-dolphincar
+T-Lam Delphinwagen
+hjm-sharkwaggon
+T-Lam Haibus
+hjm-beatnut
+Renaht Rhythmusnuss
+hjm-fanfaporter
+Renaht Fanfaporter
+hjm-powerdrop_1
+Renaht Ziehbrumm
+hjm-dropwaggon_1
+Renaht Transfunkel
+hjm-powernut
+Renaht Treibnuss
+hjm-darter
+Renaht Zugpfeil
+hjm-triple_darter
+Renaht Dreifach Zugpfeil
+hjm-eggson
+Renaht Kraftei
+hjm-meloporter
+Renaht Melodienwagen
+vks-troubador
+VKS Troubador
+hjm-powernut
+Renaht Kraftnuss
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+hjm-powertrack
+Kraftspur\n\nGefertigt aus blaurotem Metall kann die Kraftspur Fahrzeuge anheben und vorwärts bewegen. Statt links und rechts fließt der Verkehr hier in zwei Stockwerken übereinander.
+hjm-powertrack_speedlane
+Schnellspur
+hjm-enerrail
+Magnetschiene\n\nDie Schwungknochen-Magnetschiene führt Schwebefahrzeuge sehr zuverlässig auch um enge Kurven.
+hjm-enerrail_2
+Dynoschiene\n\nDie Dynoschiene erlaubt noch schnelleres Schweben als die einfache Schwungknochen-Magnetschiene.
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+hjm-enerrail_station
+Schwunknochen-Station
+#____________________________________depots_____________________________________
+#____________________________________depots_____________________________________
+hjm-car-depot
+Kraftspurdepot
+hjm-enerrail-depot
+Magnetgleiterdepot
+diesel
+carbosyn

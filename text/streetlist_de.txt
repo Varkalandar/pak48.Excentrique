@@ -1,0 +1,176 @@
+Sternweg Sybill 
+Lichthalt Haupt
+Kampkaspar Sternstrom
+Sternstrasse Siegeln
+Meyer Firmament
+Funkendom Burkholz
+Avenue Ruhanen
+Ingenierbüro Saarekas
+McGreal Platz
+Triggs Halle
+Röver Turm
+Leuchtturm Roest
+Kubes Verwaltung
+Philharmonie Rudge
+Dobrovka Designs
+Büro Heiduk
+F. Wauters Ultd.
+Emmel Immerschein
+Zuglicht Tomaschitz
+Croitor Transport
+Werkstatt Nesbitt
+Spiegelwerk Nispen
+Verbindung Töpel
+Guardiola Turm
+Glanz Wuttich
+Place de Denis-Courmont
+Materialprüfung Schoenmakers
+Wolff Kalligrafie
+Barclayplatz
+Funkturm Mecl
+Hafner Information
+Tockey Werkzeuge
+Architektur Szczepanek
+A. Brose Gestaltung
+Sojo Comics
+MoTw Halt
+sdog Station
+Ziegelei Hood
+Großgrafik Fabio
+F. Penz Zentrale
+J. Bode Beratung
+%s Leuchtrund %s
+%s Eckenlicht %s
+%s Himmelsturm
+%s Nordlicht Station
+%s Irrlicht Halt
+Platz des Kugelblitz
+%s Funkenbogen
+%s Zentrumslicht
+%s Dunkelkammer
+%s Zartschein
+%s Spiegelweg
+%s Blinkenlights
+%s Koronaplatz
+%s Lichterpark
+%s Zwergfunken
+%s Summturm
+Kuppel Neuglanz
+Hochkegel Glimm
+%s Lampenglobus
+%s Vielstrahl
+%s Himmelslicht
+%s Zwergstrahl
+%s Glühbruck
+%s Wolkenheim
+%s Funkenlader
+%s Neuwert
+%s Strahlscheibe
+Turbine Zett
+%s Funkensprung
+Viadukt Vielbogen
+%s Farbenkreuz
+%s Ringfarbe
+Einmündung Lichtstrom
+%s Kraftstrom
+%s Schwachstrom
+%s Signalweg
+%s Stützpunkt Kristall
+%s Anschluss Diode
+%s Kathodenbogen
+%s Anodenspitze
+%s Ionenstrahl
+%s Lichtverstärker
+%s Atomium
+%s Zyklon
+%s Vierweg
+%s Dreiweg
+%s Mehrweg
+%s Einweg
+%s Unterfuhr
+%s Kugelfuhr
+Observatorium %s
+%s Inspektion
+%s Zerrspiegel
+Porabol %s
+%s Globulus
+Quadronium %s
+%s Parallelspur
+Septime %s
+%s Kreuzweg
+%s Negatron
+%s Positron
+Neutronium %s
+Multitron %s
+Pyratron %s
+Entladungsspitze %s
+Funkensammler %s
+Platz der Mehrfunken
+Platz der Einfunken
+Platz der Zwillingsfunken
+Platz des Oberfunken
+Platz zum inneren Funken
+Weg zum Himmelspalast
+%s Obere Station
+%s Niederstation
+%s Halt Vollstop
+%s Beiweg
+%s Nebenstrasse Glimm
+Lichtdom %s
+%s Bogenlampe 
+%s Feinblick Halt
+%s %s Gedankentief
+%s %s am Fenster
+Halt der Vielfunken
+%s Funkenrestauration
+%s %s Innerfunken
+Lavatron %s
+Sparkatron %s
+%s Zwillingskern
+%s Attraktor
+Spule %s
+%s Windung
+%s Tiefpass
+%s Hochpass
+%s Bandpass
+Gyrotron %s
+%s Flusskontrolle
+Wiederschein %s
+Kristallhalle %s
+Kristallkugel %s
+Kristallgitter %s
+Kriechstrom %s
+Unendlichkeitsstation
+Kristallspitze %s
+Metallbogen %s
+%s Vierpol
+%s Dreipol
+%s Multipol
+%s Achtlicht
+%s Unterlicht
+%s Linse %s
+%s Fokus %s
+%s Spitze %s
+%s Kavität
+%s Beschleuniger
+%s Schwingspule
+Übertrager %s
+%s Überbrückung
+Fehlstelle %s
+Koreotraf %s
+Zirkoneal %s
+Fredramium %s
+Altraperk %s
+Mergaskolt %s
+Tetanmerk %s
+Citrapetron %s
+%s Verwerfung
+Zeitzone %s
+Zeitsprung %s
+Flüsterkegel %s
+Klangwürfel %s
+Wohlklang %s
+Doppelspitze %s
+%s Einzelspitze
+%s Zwischenraum
+%s Facette %s

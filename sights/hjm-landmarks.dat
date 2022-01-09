@@ -1,0 +1,97 @@
+#
+# Landmarks for Simutrans pak48.Excentrique
+#
+# author: Hj. Malthaner <h_malthaner@users.sourceforge.net>
+#
+# created:  2012/01/03
+# update:   2013/03/26
+#
+obj=building
+name=hjm-splinter_plant_dark
+copyright=HjM
+parameters=ground(natural_flat)
+type=cur
+passengers=50
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+needs_ground=1
+chance=80
+dims=2,2
+climates=temperate,tundra,rocky
+#######[dir][j][i][h][anim][season]
+BackImage[0][1][0][0][0][0]=hjm-splinter_plant_dark.0.0
+BackImage[0][0][1][0][0][0]=hjm-splinter_plant_dark.0.1
+# BackImage[0][1][0][1][0][0]=hjm-splinter_plant_dark.0.2
+# BackImage[0][0][1][1][0][0]=hjm-splinter_plant_dark.0.3
+BackImage[0][1][1][0][0][0]=hjm-splinter_plant_dark.1.0
+BackImage[0][0][0][0][0][0]=hjm-splinter_plant_dark.1.1
+BackImage[0][0][0][1][0][0]=hjm-splinter_plant_dark.1.2
+BackImage[0][1][0][0][0][1]=hjm-splinter_plant_dark.0.0
+BackImage[0][0][1][0][0][1]=hjm-splinter_plant_dark.0.1
+# BackImage[0][1][0][1][0][1]=hjm-splinter_plant_dark.0.2
+# BackImage[0][0][1][1][0][1]=hjm-splinter_plant_dark.0.3
+BackImage[0][1][1][0][0][1]=hjm-splinter_plant_dark.1.0
+BackImage[0][0][0][0][0][1]=hjm-splinter_plant_dark.1.1
+BackImage[0][0][0][1][0][1]=hjm-splinter_plant_dark.1.2
+-----------------------
+obj=building
+name=hjm-splinter_plant_light
+copyright=HjM
+parameters=ground(natural_flat)
+type=cur
+passengers=50
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+chance=100
+needs_ground=1
+dims=2,2
+climates=tundra,rocky,arctic
+#######[dir][j][i][h][anim][season]
+BackImage[0][1][0][0][0][0]=hjm-splinter_plant_light.0.0
+BackImage[0][0][1][0][0][0]=hjm-splinter_plant_light.0.1
+BackImage[0][1][1][0][0][0]=hjm-splinter_plant_light.1.0
+BackImage[0][0][0][0][0][0]=hjm-splinter_plant_light.1.1
+BackImage[0][0][0][1][0][0]=hjm-splinter_plant_light.1.2
+BackImage[0][1][0][0][0][1]=hjm-splinter_plant_light.0.0
+BackImage[0][0][1][0][0][1]=hjm-splinter_plant_light.0.1
+BackImage[0][1][1][0][0][1]=hjm-splinter_plant_light.1.0
+BackImage[0][0][0][0][0][1]=hjm-splinter_plant_light.1.1
+BackImage[0][0][0][1][0][1]=hjm-splinter_plant_light.1.2
+-----------------------
+# Test/Example for Tilemaster 3x3 cut
+#obj=building
+#name=hjm-test
+#copyright=HjM
+#type=cur
+#passengers=50
+#intro_year=1
+#retire_year=5460
+#chance=100
+#dims=3,3
+#climates=water,desert,tropic,mediterran,temperate,tundra,rocky,arctic
+
+#######[dir][j][i][h][anim][season]
+
+#BackImage[0][0][0][0][0][0]=test.3.0
+#BackImage[0][1][0][0][0][0]=test.4.0
+#BackImage[0][1][1][0][0][0]=test.4.1
+#BackImage[0][0][1][0][0][0]=test.4.2
+#BackImage[0][2][0][0][0][0]=test.5.0
+#BackImage[0][2][1][0][0][0]=test.5.1
+#BackImage[0][2][2][0][0][0]=test.5.2
+#BackImage[0][1][2][0][0][0]=test.5.3
+#BackImage[0][0][2][0][0][0]=test.5.4
+
+#BackImage[0][0][0][1][0][0]=test.0.0
+#BackImage[0][1][0][1][0][0]=test.1.0
+#BackImage[0][1][1][1][0][0]=test.1.1
+#BackImage[0][0][1][1][0][0]=test.1.2
+#BackImage[0][2][0][1][0][0]=test.2.0
+#BackImage[0][2][1][1][0][0]=test.2.1
+#BackImage[0][2][2][1][0][0]=test.2.2
+#BackImage[0][1][2][1][0][0]=test.2.3
+#BackImage[0][0][2][1][0][0]=test.2.4

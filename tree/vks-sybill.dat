@@ -1,0 +1,26 @@
+#
+# Plants for Simutrans pak48.Excentrique
+#
+# Author: Varkaleas <varkaleas@users.sourceforge.net>
+#
+# Created:  2012/06/21
+# Update:   2012/06/21
+#
+#
+# climates: desert, tropic, mediterran, temperate, tundra, rocky
+Obj=tree
+Name=vks-sybill_starleaf
+copyright=VKS
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+climates=desert, tropic
+seasons=1
+DistributionWeight=1
+#Image[Age][Season]
+Image[0][0]=./vks-sybill_starleaf.0.0
+Image[1][0]=./vks-sybill_starleaf.0.1
+Image[2][0]=./vks-sybill_starleaf.0.2
+Image[3][0]=./vks-sybill_starleaf.0.3
+Image[4][0]=./vks-sybill_starleaf.0.4

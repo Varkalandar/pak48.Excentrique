@@ -1,0 +1,30 @@
+#
+# Special city buildings for Simutrans pak48.Excentrique
+# These are built at certain city sizes
+#
+# author: Varkaleas <varkaleas@users.sourceforge.net>
+#
+# created:  2012/07/04
+# update:   2012/07/04
+#</object>
+<object>
+Obj=building
+Name=hjm-embassy
+copyright=HjM
+Type=cur
+Passengers=20
+build_time=500
+chance=20
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+needs_ground=0
+dims=2,2
+climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
+# Summer
+# [rot][y][x][z][anim][season]
+BackImage[0][0][0][0][0][0]=./img_extra/hjm-embassy_tiled.1.2
+BackImage[0][0][1][0][0][0]=./img_extra/hjm-embassy_tiled.0.1
+BackImage[0][1][0][0][0][0]=./img_extra/hjm-embassy_tiled.0.0
+BackImage[0][1][1][0][0][0]=./img_extra/hjm-embassy_tiled.1.0
