@@ -148,6 +148,10 @@ hjm-organ
 Aureal melody maker
 vks-orchestra
 Symphonium
+hjm-proto_sun
+Proto Sun
+hjm-weather_mixer
+Weather Mixer
 #_____________________________________good______________________________________
 #_____________________________________good______________________________________
 beats
@@ -158,6 +162,10 @@ tunes
 Tunes
 melodies
 Melodies
+rain
+Rain
+sunshine
+Sunshine
 #_____________________________________groundobj______________________________________
 #_____________________________________groundobj______________________________________
 hjm-rock_1
@@ -242,6 +250,8 @@ vks-troubador
 VKS Troubador
 hjm-powernut
 Renaht Powernut
+hjm-sunbringer
+Zeus Sundisc
 #______________________________________way______________________________________
 #______________________________________way______________________________________
 hjm-powertrack

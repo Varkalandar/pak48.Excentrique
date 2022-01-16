@@ -96,6 +96,10 @@ hjm-organ
 Himmelsorgel
 vks-orchestra
 Symphonium
+hjm-proto_sun
+Protosonne
+hjm-weather_mixer
+Wettermischer
 #_____________________________________good______________________________________
 #_____________________________________good______________________________________
 beats
@@ -106,6 +110,10 @@ tunes
 Musikstücke
 melodies
 Melodien
+rain
+Regen
+sunshine
+Sonnenschein
 #_____________________________________groundobj______________________________________
 #_____________________________________groundobj______________________________________
 hjm-rock_1
@@ -192,6 +200,8 @@ vks-troubador
 VKS Troubador
 hjm-powernut
 Renaht Kraftnuss
+hjm-sunbringer
+Zeus Sonnenscheibe
 #______________________________________way______________________________________
 #______________________________________way______________________________________
 hjm-powertrack

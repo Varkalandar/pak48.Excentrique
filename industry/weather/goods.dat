@@ -1,0 +1,24 @@
+#
+# Weather industry goods for Simutrans pak48.Excentrique
+#
+# author: Hj. Malthaner
+#
+<object>
+obj=good
+name=rain
+metric=
+catg=0
+value=50
+speed_bonus=2
+weight_per_unit=75
+-----------------------
+<object>
+obj=good
+name=sunshine
+metric=
+catg=0
+value=50
+speed_bonus=2
+weight_per_unit=10
+-----------------------
+

@@ -1,0 +1,31 @@
+#
+#
+# Weather transporters
+#
+# author: Hj. Malthaner
+#
+#
+obj=vehicle
+name=hjm-sunbringer
+copyright=HjM
+waytype=track
+freight=sunshine
+payload=30
+speed=120
+cost=50000
+weight=20
+length=8
+RunningCost=7
+intro_year=1
+intro_month=1
+retire_year=5460
+retire_month=1
+EmptyImage[W]=hjm-sundisk.0.1
+EmptyImage[S]=hjm-sundisk.0.0
+EmptyImage[E]=hjm-sundisk.0.1
+EmptyImage[N]=hjm-sundisk.0.0
+EmptyImage[SE]=hjm-sundisk.1.0
+EmptyImage[NW]=hjm-sundisk.1.0
+EmptyImage[NE]=hjm-sundisk.0.2
+EmptyImage[SW]=hjm-sundisk.0.2
+-----------------------
