@@ -25,6 +25,7 @@ passenger_demand=300
 mail_demand=40
 climates=desert,tropic,mediterran,temperate,tundra,rocky,arctic
 dims=3,3,1
+needs_ground = 1
 BackImage[0][0][0][0][0][0]=hjm-distill.0.0
 BackImage[0][0][0][1][0][0]=hjm-distill.0.1
 BackImage[0][0][1][0][0][0]=hjm-distill.0.2
