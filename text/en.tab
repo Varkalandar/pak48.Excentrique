@@ -77,7 +77,7 @@ Show waiting bars
 hide transparent
 Make hidden trees transparent
 COLOR_CHOOSE\n
-Choose a primary\nand secondary\nvehicle color from\nthe right hand lists.
+Choose a primary\nand secondary\nvehicle color from\nthe image on the right:
 minimum length of rivers
 Min. length of rivers
 maximum length of rivers
@@ -103,7 +103,7 @@ Spark charger.
 residential house
 Spark capacitor.
 shops and stores
-Spark cleaner.
+Spark purifier.
 fl_title
 Factory List
 curlist_title
@@ -176,6 +176,14 @@ hjm-inactive_geyser
 Inactive Geyser\n\nNothing more than a boring hole in the ground. Or is it?\n
 hjm-pond_1
 Muddy Pond\n\nIs that water or some sort of acid in there? Anyways the growths around seem to like it.\n
+hjm-yellow_flowers
+A patch of small, yellow flowers.\n
+hjm-deco_3
+Flowers.\n
+hjm-green_patch_1
+Good and bad weeds.\n
+hjm-gray_spots
+Small rocks.\n
 #_____________________________________misc______________________________________
 #_____________________________________misc______________________________________
 #__________________________________pedestrian___________________________________
@@ -222,6 +230,14 @@ hjm-bluespike
 Bluespike\n\nThe bluespike is a crystal growth, that seems to be here, what plants are in other places.\n
 hjm-spire
 Black Spire\n\nA black spire of seemingly very hard material protudes from the surface here.\n
+hjm-purplebush
+Blueshrub\n\nIs it organic copper, which makes this shrub so blue?\n
+hjm-green_patch_2
+Small and green things grow here.\n
+hjm-ochre_spots
+Mineralic, ochre spots.\n
+hjm-mushroom_patch_1
+A patch of small mushrooms.\n
 #____________________________________tunnel_____________________________________
 #____________________________________tunnel_____________________________________
 #____________________________________vehicle____________________________________
