@@ -41,6 +41,9 @@ DIRS64 += skin
 DIRS128 :=
 DIRS128 += big_logo
 
+DIRS192 :=
+DIRS192 += sights_192
+
 ADDON_DIRS48 :=
 ADDON_DIRS48 += factory_food
 
@@ -93,6 +96,11 @@ $(DIRS128):
 	@echo "===> PAK128 $@"
 	@mkdir -p $(PAKDIR)
 	@$(MAKEOBJ) quiet PAK128 $(PAKDIR)/ $@/ > /dev/null
+
+$(DIRS192):
+	@echo "===> PAK192 $@"
+	@mkdir -p $(PAKDIR)
+	@$(MAKEOBJ) quiet PAK192 $(PAKDIR)/ $@/ > /dev/null
 
 version:
 	@echo "===> Version"
