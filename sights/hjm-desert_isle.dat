@@ -13,7 +13,7 @@ retire_month=1
 needs_ground=1
 chance=80
 dims=4,4
-climates=desert,tropic,mediterran,temperate,tundra,rocky
+climates=desert,tropic,mediterran
 #######[dir][j][i][h][anim][season]
 BackImage[0][0][0][0][0][0]=hjm-desert_isle_cut.0.2
 BackImage[0][0][1][0][0][0]=hjm-desert_isle_cut.0.2
